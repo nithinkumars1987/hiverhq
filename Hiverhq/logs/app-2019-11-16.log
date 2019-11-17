@@ -1,0 +1,147 @@
+00:00:09.479 INFO  AmazoniPhone -₹ 42,900.00
+00:00:09.522 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:00:19.119 INFO  AmazoniPhone -₹ 42,900.00
+00:00:19.145 INFO  FlipkartAmazonSearch -₹ 42,900.00
+00:07:52.503 INFO  BrowserFactory -Opening browser : Chrome
+00:07:52.536 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:07:56.923 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:08:01.969 INFO  FlipkartiPhone -₹50,999
+00:08:10.677 INFO  AmazoniPhone -₹ 42,900.00
+00:08:11.012 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:10:02.306 INFO  BrowserFactory -Opening browser : Chrome
+00:10:02.330 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:10:06.033 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:10:11.079 INFO  FlipkartiPhone -₹50,999
+00:10:20.419 INFO  AmazoniPhone -₹ 42,900.00
+00:10:20.495 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:12:13.988 INFO  BrowserFactory -Opening browser : Chrome
+00:12:14.005 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:12:17.230 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:12:22.275 INFO  FlipkartiPhone -₹50,999
+00:12:32.367 INFO  AmazoniPhone -₹ 42,900.00
+00:12:32.504 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:12:37.534 INFO  AmazoniPhone -₹ 42,900.00
+00:12:37.558 INFO  FlipkartAmazonSearch -₹ 42,900.00
+00:15:03.648 INFO  BrowserFactory -Opening browser : Chrome
+00:15:03.680 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:15:07.252 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:15:12.298 INFO  FlipkartiPhone -₹50,999
+00:15:12.354 INFO  FlipkartiPhone -₹50,999
+00:15:12.381 INFO  FlipkartAmazonSearch -₹50,999
+00:15:21.405 INFO  AmazoniPhone -₹ 42,900.00
+00:15:22.072 INFO  AmazoniPhone -₹ 42,900.00
+00:15:22.137 INFO  FlipkartAmazonSearch -₹ 42,900.00
+00:16:17.038 INFO  BrowserFactory -Opening browser : Chrome
+00:16:17.065 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:16:20.518 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:16:25.566 INFO  FlipkartiPhone -₹50,999
+00:16:30.575 INFO  FlipkartiPhone -₹50,999
+00:16:47.010 INFO  FlipkartAmazonSearch -₹50,999
+00:17:43.175 INFO  BrowserFactory -Opening browser : Chrome
+00:17:43.210 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:17:47.146 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:17:52.191 INFO  FlipkartiPhone -₹50,999
+00:17:52.219 INFO  FlipkartAmazonSearch -₹50,999
+00:18:00.708 INFO  AmazoniPhone -₹ 42,900.00
+00:18:00.813 INFO  FlipkartAmazonSearch -₹ 42,900.00
+00:19:54.059 INFO  BrowserFactory -Opening browser : Chrome
+00:19:54.111 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:19:57.613 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:20:08.278 INFO  FlipkartiPhone -₹50,999
+00:20:13.457 INFO  FlipkartAmazonSearch -50999
+00:21:32.017 INFO  BrowserFactory -Opening browser : Chrome
+00:21:32.047 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:21:35.399 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:21:44.908 INFO  FlipkartiPhone -₹50,999
+00:21:46.835 INFO  FlipkartAmazonSearch -50999
+00:21:58.321 INFO  AmazoniPhone -₹ 42,900.00
+00:22:00.474 INFO  FlipkartAmazonSearch -4290000
+00:26:50.181 INFO  BrowserFactory -Opening browser : Chrome
+00:26:50.207 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:26:53.780 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:27:05.025 INFO  FlipkartiPhone -₹50,999
+00:27:07.242 INFO  FlipkartAmazonSearch -50999
+00:27:18.875 INFO  AmazoniPhone -₹ 42,900.00
+00:31:22.756 INFO  BrowserFactory -Opening browser : Chrome
+00:31:22.785 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:31:25.851 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:31:30.898 INFO  FlipkartiPhone -₹50,999
+00:31:30.924 INFO  FlipkartAmazonSearch -50999
+00:31:45.910 INFO  AmazoniPhone -₹ 42,900.00
+00:34:06.671 INFO  BrowserFactory -Opening browser : Chrome
+00:34:06.697 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:34:18.399 INFO  AmazoniPhone -₹ 42,900.00
+01:50:39.457 INFO  BrowserFactory -Opening browser : Chrome
+01:50:39.487 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+01:50:51.079 INFO  AmazoniPhone -42,900
+01:50:59.459 INFO  FlipkartAmazonSearch -42,900
+01:59:29.232 INFO  BrowserFactory -Opening browser : Chrome
+01:59:29.250 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+01:59:32.346 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+01:59:44.391 INFO  FlipkartiPhone -₹50,999
+01:59:50.275 INFO  FlipkartAmazonSearch -50999
+02:00:07.044 INFO  AmazoniPhone -42,900
+02:00:10.080 INFO  FlipkartAmazonSearch -42900
+02:03:22.817 INFO  BrowserFactory -Opening browser : Chrome
+02:03:22.855 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:03:26.920 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+02:03:31.975 INFO  FlipkartiPhone -₹50,999
+02:03:32.002 INFO  FlipkartAmazonSearch -50999
+02:03:37.980 INFO  AmazoniPhone -42,900
+02:03:38.094 INFO  FlipkartAmazonSearch -42900
+02:03:38.095 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is42900
+02:05:18.772 INFO  BrowserFactory -Opening browser : Chrome
+02:05:18.801 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:05:22.505 INFO  FlipkartAmazonSearch -50999
+02:05:28.342 INFO  FlipkartAmazonSearch -42900
+02:05:28.343 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is 42900
+02:06:52.925 INFO  BrowserFactory -Opening browser : Chrome
+02:06:52.964 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:06:56.751 INFO  FlipkartAmazonSearch -Flipkart price is 50999
+02:07:03.021 INFO  FlipkartAmazonSearch -Amazon price is 42900
+02:07:03.023 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is 42900
+02:17:25.354 INFO  BrowserFactory -Opening browser : Chrome
+02:17:25.385 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:17:29.277 INFO  FlipkartAmazonSearch -Flipkart price is 11999
+02:19:17.495 INFO  BrowserFactory -Opening browser : Chrome
+02:19:17.518 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:19:20.914 INFO  FlipkartAmazonSearch -Flipkart price is 50999
+02:19:26.117 INFO  FlipkartAmazonSearch -Amazon price is 42900
+02:19:26.118 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is 42900
+02:23:09.322 INFO  BrowserFactory -Opening browser : Chrome
+02:23:09.339 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:23:56.904 INFO  BrowserFactory -Opening browser : Chrome
+02:23:56.915 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:23:59.543 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (4fe7fccf8d12db3cfe42d5d98d5572ab)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+02:24:03.617 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (4fe7fccf8d12db3cfe42d5d98d5572ab)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+02:24:04.291 INFO  FlipkartTest -Price is ₹39,998
+02:28:01.577 INFO  BrowserFactory -Opening browser : Chrome
+02:28:01.587 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+02:28:04.270 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (4fdca52982b425d333029018a6e24f35)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+02:28:08.739 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (4fdca52982b425d333029018a6e24f35)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+02:28:09.385 INFO  FlipkartTest -Price is ₹39,998
+02:28:11.021 INFO  BrowserFactory -Opening browser : Chrome
+02:28:14.333 INFO  FlipkartAmazonSearch -Flipkart price is 50999
+02:28:19.784 INFO  FlipkartAmazonSearch -Amazon price is 42900
+02:28:19.785 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is 42900

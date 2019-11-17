@@ -1,0 +1,113 @@
+00:01:09.517 INFO  BrowserFactory -Opening browser : Chrome
+00:01:09.544 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:01:12.793 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (476e109281b93c3536c217718adbe761)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:01:13.605 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:01:18.814 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+00:01:28.966 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:01:36.916 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:02:04.895 INFO  BrowserFactory -Opening browser : Chrome
+00:02:04.914 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:02:07.825 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (a648accc61569febfa6da5706bdc4d54)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:02:12.211 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:07:38.865 INFO  BrowserFactory -Opening browser : Chrome
+00:07:38.885 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:07:42.505 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (ed2afcd6b999bf997ab6b5317360259f)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:07:47.307 INFO  FlipkartHome -₹19,999
+00:07:47.308 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:08:45.416 INFO  BrowserFactory -Opening browser : Chrome
+00:08:45.432 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:08:48.315 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (907f82ebaa926449e235eca853ea51d1)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:08:52.572 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:08:54.617 INFO  FlipkartHome -₹39,998
+00:08:54.618 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:09:45.047 INFO  BrowserFactory -Opening browser : Chrome
+00:09:45.063 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:09:48.197 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (ccbf0a54dc0b3cefb6d61d8381891cbf)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:09:52.337 INFO  FlipkartHome -₹19,999
+00:09:52.337 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:10:40.591 INFO  BrowserFactory -Opening browser : Chrome
+00:10:40.600 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:10:43.611 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (8441fc0d12dd16bf08cfb9ccddc9208f)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:10:48.008 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (8441fc0d12dd16bf08cfb9ccddc9208f)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+00:10:48.658 INFO  FlipkartHome -₹39,998
+00:10:48.658 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:11:17.648 INFO  BrowserFactory -Opening browser : Chrome
+00:11:17.662 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:11:20.620 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (026da87715b3fba49bc8dc3a6b14697a)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:11:25.327 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (026da87715b3fba49bc8dc3a6b14697a)] -> xpath: .//*[@class='_3xFQAD']/div/span] to be clickable..
+00:11:25.426 INFO  FlipkartHome -₹19,999
+00:11:25.426 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:11:57.484 INFO  BrowserFactory -Opening browser : Chrome
+00:11:57.558 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:12:00.277 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (864e831027962261934115d15022248b)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:12:04.629 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (864e831027962261934115d15022248b)] -> xpath: .//*[@class='_3xFQAD']/div/span] to be clickable..
+00:12:04.708 INFO  FlipkartHome -₹19,999
+00:12:04.708 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:12:35.786 INFO  BrowserFactory -Opening browser : Chrome
+00:12:35.800 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:12:38.929 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (adbec9bebbc303ec322796c6273bd2bc)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:12:43.437 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (adbec9bebbc303ec322796c6273bd2bc)] -> xpath: .//*[@class='_3xFQAD']/div/span] to be clickable..
+00:12:43.533 INFO  FlipkartHome -₹19,999
+00:12:43.534 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+00:13:19.423 INFO  BrowserFactory -Opening browser : Chrome
+00:13:19.435 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:13:22.378 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (cd417b01cec23fbfec339893c5c18a2a)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:13:27.006 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (cd417b01cec23fbfec339893c5c18a2a)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+00:13:27.650 INFO  FlipkartHome -₹39,998
+00:14:52.408 INFO  BrowserFactory -Opening browser : Chrome
+00:14:52.429 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:14:56.036 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (f720f3b0719373a99e0959c9e63dc90d)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:15:00.636 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (f720f3b0719373a99e0959c9e63dc90d)] -> xpath: .//*[@class='_3xFQAD']/div/span] to be visibile..
+00:15:00.713 INFO  FlipkartHome -₹19,999
+00:16:34.061 INFO  BrowserFactory -Opening browser : Chrome
+00:16:34.071 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:16:37.779 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (ab8de522a92a164ecdbeabba6ec7a8f7)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:16:42.413 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (ab8de522a92a164ecdbeabba6ec7a8f7)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+00:16:43.094 INFO  FlipkartHome -₹39,998
+00:37:33.596 INFO  BrowserFactory -Opening browser : Chrome
+00:37:33.639 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:37:37.732 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (da01f43a83ef7caafedb934038fd9a7d)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:39:31.371 INFO  BrowserFactory -Opening browser : Chrome
+00:39:31.385 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:39:34.560 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (554c1aab46eceb74148a8cd6f25b0faa)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:41:08.189 INFO  BrowserFactory -Opening browser : Chrome
+00:41:08.200 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:41:11.484 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (3386722176f752f5db4fcb833c045f8d)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:41:17.871 INFO  WaitHelper -Waiting for Proxy element for: DefaultElementLocator 'By.xpath: .//*[@class='_2AkmmA _2Npkh4 _2MWPVK']' to be clickable..
+00:42:44.971 INFO  BrowserFactory -Opening browser : Chrome
+00:42:44.989 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:42:48.057 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (bb790181e07f44b2a3c911c4e8a07538)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:42:52.751 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (bb790181e07f44b2a3c911c4e8a07538)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+00:42:53.480 INFO  FlipkartHome -₹39,998
+00:50:15.212 INFO  BrowserFactory -Opening browser : Chrome
+00:50:15.237 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:50:18.876 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (61a26b67c12a71e7f3e5731a49889104)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:50:23.709 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (61a26b67c12a71e7f3e5731a49889104)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+00:50:24.391 INFO  FlipkartHome -₹39,998
+00:50:55.513 INFO  BrowserFactory -Opening browser : Chrome
+00:50:55.527 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+00:50:58.541 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (38926166da7c7f441688844185f73578)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+00:51:03.123 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (38926166da7c7f441688844185f73578)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+01:13:49.025 INFO  BrowserFactory -Opening browser : Chrome
+01:13:49.045 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+01:13:52.718 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (df3021522ebc028a2f86d6d89cd17f58)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+01:13:57.159 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (df3021522ebc028a2f86d6d89cd17f58)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..

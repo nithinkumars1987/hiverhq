@@ -1,0 +1,65 @@
+22:35:06.346 INFO  BrowserFactory -Opening browser : Chrome
+22:35:06.372 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:35:37.055 INFO  BrowserFactory -Opening browser : Chrome
+22:35:37.069 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:35:40.480 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+22:41:30.562 INFO  BrowserFactory -Opening browser : Chrome
+22:41:30.578 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:41:34.752 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+22:41:39.804 INFO  FlipkartiPhone -₹50,999
+23:20:30.951 INFO  BrowserFactory -Opening browser : Chrome
+23:20:30.980 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:20:34.323 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:20:39.373 INFO  FlipkartiPhone -₹50,999
+23:23:42.118 INFO  BrowserFactory -Opening browser : Chrome
+23:23:42.141 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:23:50.328 INFO  BrowserFactory -Opening browser : Chrome
+23:24:32.287 INFO  BrowserFactory -Opening browser : Chrome
+23:24:32.318 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:24:39.845 INFO  AmazoniPhone -₹ 42,900.00
+23:24:39.848 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:24:46.411 INFO  BrowserFactory -Opening browser : Chrome
+23:24:49.423 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:24:54.473 INFO  FlipkartiPhone -₹50,999
+23:43:55.453 INFO  BrowserFactory -Opening browser : Chrome
+23:43:55.483 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:44:03.731 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:44:10.782 INFO  BrowserFactory -Opening browser : Chrome
+23:44:12.255 INFO  BrowserFactory -Opening browser : Chrome
+23:44:15.452 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:45:38.166 INFO  BrowserFactory -Opening browser : Chrome
+23:45:38.184 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:45:56.223 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:46:02.837 INFO  BrowserFactory -Opening browser : Chrome
+23:46:15.724 INFO  BrowserFactory -Opening browser : Chrome
+23:46:18.831 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:50:23.729 INFO  BrowserFactory -Opening browser : Chrome
+23:50:23.751 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:50:27.017 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:50:39.988 INFO  FlipkartiPhone -₹50,999
+23:50:41.691 INFO  BrowserFactory -Opening browser : Chrome
+23:50:49.226 INFO  AmazoniPhone -₹ 42,900.00
+23:50:49.268 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:50:55.815 INFO  BrowserFactory -Opening browser : Chrome
+23:52:10.175 INFO  BrowserFactory -Opening browser : Chrome
+23:52:10.192 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:52:13.364 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:52:23.497 INFO  FlipkartiPhone -₹50,999
+23:52:25.037 INFO  BrowserFactory -Opening browser : Chrome
+23:52:32.192 INFO  AmazoniPhone -₹ 42,900.00
+23:52:32.218 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:59:34.503 INFO  BrowserFactory -Opening browser : Chrome
+23:59:34.535 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:59:38.136 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:59:47.439 INFO  FlipkartiPhone -₹50,999

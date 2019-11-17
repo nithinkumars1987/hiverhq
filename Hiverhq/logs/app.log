@@ -1,0 +1,45 @@
+13:26:38.411 INFO  BrowserFactory -Opening browser : Chrome
+13:26:38.452 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:26:41.429 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (cec04f978e158349d4878a4bd4b575b2)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:26:47.170 INFO  BrowserFactory -Opening browser : Chrome
+13:26:50.805 INFO  FlipkartAmazonSearch -Flipkart price is 47900
+13:26:59.781 INFO  FlipkartAmazonSearch -Amazon price is 42900
+13:26:59.783 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is 42900
+13:27:42.690 INFO  BrowserFactory -Opening browser : Chrome
+13:27:42.701 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:27:45.297 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (30f53d68e31e5d1a0db74edcdf76b552)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:27:49.802 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (30f53d68e31e5d1a0db74edcdf76b552)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+13:27:51.001 INFO  FlipkartTest -Price is ₹39,998
+13:28:11.009 INFO  BrowserFactory -Opening browser : Chrome
+13:28:11.017 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:28:14.081 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (2a9d1fe1151ba4ca0963908de8c8c422)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:28:19.959 INFO  BrowserFactory -Opening browser : Chrome
+13:28:42.825 INFO  BrowserFactory -Opening browser : Chrome
+13:28:42.838 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:28:45.441 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (48576de7aef62671b73f25df3e3375b5)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:28:51.263 INFO  BrowserFactory -Opening browser : Chrome
+13:29:32.609 INFO  BrowserFactory -Opening browser : Chrome
+13:29:32.623 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:29:35.323 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (785bc15d773190c9c1b2b0cf6cc8f119)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:29:39.408 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (785bc15d773190c9c1b2b0cf6cc8f119)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+13:29:40.068 INFO  FlipkartTest -Price is ₹39,998
+13:29:56.173 INFO  BrowserFactory -Opening browser : Chrome
+13:29:56.185 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:29:58.997 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (26df3ee6c21581f0b9e65c90232f76aa)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:30:05.059 INFO  BrowserFactory -Opening browser : Chrome
+13:31:33.843 INFO  BrowserFactory -Opening browser : Chrome
+13:31:33.856 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+13:31:36.565 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (ac925acf2c615ae42f77ceaa8089f6b3)] -> xpath: .//*[@title='Redmi K20 | K20 Pro']] to be clickable..
+13:31:40.747 INFO  WaitHelper -Waiting for [[ChromeDriver: chrome on MAC (ac925acf2c615ae42f77ceaa8089f6b3)] -> xpath: .//*[@class='_3md1dr']/button[2]] to be clickable..
+13:31:41.384 INFO  FlipkartTest -Price is ₹39,998
+13:31:43.095 INFO  BrowserFactory -Opening browser : Chrome
+13:31:46.319 INFO  FlipkartAmazonSearch -Flipkart price is 47900
+13:31:51.226 INFO  FlipkartAmazonSearch -Amazon price is 42900
+13:31:51.227 INFO  FlipkartAmazonSearch -Amazon has lesser price than Flipkart and the price is 42900

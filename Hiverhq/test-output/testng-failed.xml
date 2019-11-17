@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.Hiverhq.FlipkartTest">
+        <methods>
+          <include name="close"/>
+          <include name="flipkart"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.Hiverhq.FlipkartTest -->
+      <class name="com.Hiverhq.FlipkartAmazonSearch">
+        <methods>
+          <include name="close"/>
+          <include name="beforeMethod"/>
+          <include name="flipkartamazoncompare"/>
+        </methods>
+      </class> <!-- com.Hiverhq.FlipkartAmazonSearch -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

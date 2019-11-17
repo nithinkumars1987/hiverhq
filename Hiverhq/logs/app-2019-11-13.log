@@ -1,0 +1,106 @@
+22:44:37.502 INFO  BrowserFactory -Opening browser : Chrome
+22:44:37.522 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:45:36.289 INFO  BrowserFactory -Opening browser : Chrome
+22:45:36.315 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:53:55.081 INFO  BrowserFactory -Opening browser : Chrome
+22:53:55.106 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:54:38.042 INFO  BrowserFactory -Opening browser : Chrome
+22:54:38.055 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:54:41.026 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+22:56:23.347 INFO  BrowserFactory -Opening browser : Chrome
+22:56:23.373 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:57:10.114 INFO  BrowserFactory -Opening browser : Chrome
+22:57:10.131 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+22:57:13.511 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+22:57:18.709 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:18:27.403 INFO  BrowserFactory -Opening browser : Chrome
+23:18:27.422 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:18:31.220 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:18:36.416 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:18:42.145 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:19:46.576 INFO  BrowserFactory -Opening browser : Chrome
+23:19:46.591 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:19:49.696 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:19:54.916 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:20:00.082 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:22:52.121 INFO  BrowserFactory -Opening browser : Chrome
+23:22:52.144 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:22:55.877 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:23:01.061 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:23:06.249 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:27:00.849 INFO  BrowserFactory -Opening browser : Chrome
+23:27:00.870 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:27:04.418 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:27:09.606 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:27:14.767 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:28:38.498 INFO  BrowserFactory -Opening browser : Chrome
+23:28:38.511 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:28:41.961 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:28:47.142 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:28:52.333 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:33:23.418 INFO  BrowserFactory -Opening browser : Chrome
+23:33:23.439 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:33:27.157 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:33:32.388 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:33:37.581 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:34:26.896 INFO  BrowserFactory -Opening browser : Chrome
+23:34:26.922 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:34:30.510 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:34:35.713 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:34:40.908 INFO  WaitHelper -Driver sleeping for : 1000000 Milisecond
+23:39:46.838 INFO  BrowserFactory -Opening browser : Chrome
+23:39:46.865 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:39:50.122 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:39:55.313 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:40:00.502 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:41:00.088 INFO  BrowserFactory -Opening browser : Chrome
+23:41:00.109 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:41:03.319 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:41:08.487 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:41:13.683 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:43:34.208 INFO  BrowserFactory -Opening browser : Chrome
+23:43:34.221 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:43:37.795 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:43:42.980 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:43:48.159 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:43:53.278 INFO  FlipkartHome -Redmi K20 (Glacier Blue, 64 GB)  (6 GB RAM)
+23:43:53.280 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+23:44:43.652 INFO  BrowserFactory -Opening browser : Chrome
+23:44:43.695 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:44:46.650 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:44:51.841 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:44:57.034 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:45:02.106 INFO  FlipkartHome -Redmi K20 (Glacier Blue, 64 GB)  (6 GB RAM)
+23:45:02.107 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+23:45:27.920 INFO  BrowserFactory -Opening browser : Chrome
+23:45:27.934 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:45:30.792 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:45:35.974 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:45:41.162 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:45:46.309 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+23:57:00.573 INFO  BrowserFactory -Opening browser : Chrome
+23:57:00.596 INFO  PropertyHandler -Default environemnt selected for test is : Config
+If you would like to change the environment, run with : 'mvn test -P<profile> -DsuiteXmlFile=<xmlFileName> -Dapp.env=<environmentname>'
+23:57:04.219 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:57:09.397 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:57:14.603 INFO  WaitHelper -Driver sleeping for : 5000 Milisecond
+23:57:19.754 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
+23:57:21.830 INFO  WaitHelper -Driver sleeping for : 2000 Milisecond
